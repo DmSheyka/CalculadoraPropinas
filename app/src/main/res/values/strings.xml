@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora de propinas</string>
+    <string name="texto_calcular_propina">Calcular propina</string>
+    <string name="texto_importe_factura">Importe de la factura</string>
+    <string name="texto_descripcion_servicio">Porcentaje de propina</string>
+    <string name="texto_propina">Cantidad de propina</string>
+    <string name="texto_redondear_propina">¿Redondear propina?</string>
+</resources>
